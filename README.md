@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Hassan 👋
+
+Welcome to my GitHub profile! I'm passionate about software development, especially Web Development.
+
