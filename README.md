@@ -1,9 +1,8 @@
 # Hi, I'm Hassan Sami 👋
 
 **Full Stack Developer | Computer Engineering Student**  
-📍 Cairo, Egypt  
+📍 Zagazig, Egypt  
 [GitHub](https://github.com/Hassan-sami) • [LinkedIn](https://linkedin.com/in/hassan-sami-18113b249)  
-✉️ hassansami375@gmail.com • 📱 +20 109 657 3329
 
 ---
 
